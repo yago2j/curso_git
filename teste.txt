@@ -1,2 +1,1 @@
-Objeto2 para a funcionalidade1 sendo desenvolvido
-
+Primeiro teste de edição do arquivo tal
